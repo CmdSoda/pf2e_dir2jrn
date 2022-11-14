@@ -1,0 +1,25 @@
+32:Abstammungen & Hintergründe
+66:Klassen
+70:Alchemist
+82:Barbar
+94:Barde
+104:Druide
+116:Kämpfer
+130:Kleriker
+142:Magier
+154:Mönch
+166:Schurke
+178:Streiter
+190:Waldläufer
+202:Zauberer
+232:Fertigkeiten
+234:Einkommen Verdienen
+235:Tabelle Fertigkeiten
+236:Tabelle Einkommen
+237:Magie identifizieren
+238:Schrift entziffern, Überleben, Wissen abrufen
+254:Talente
+296:Zauber
+442:Spielregeln
+530:Handwerkskunst & Schätze
+618:Schätze
